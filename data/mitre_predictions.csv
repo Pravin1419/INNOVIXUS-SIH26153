@@ -1,0 +1,650 @@
+Timestamp,Actual_State,Infiltration_Probability,Predicted_State,Attack_Scenario,MITRE_Technique,MITRE_Tactic,MITRE_Stage,Stage_Reason
+2018-02-14 11:11:50,Attack,0.9945527421227314,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:12:00,Attack,0.994686968062047,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:12:10,Attack,0.9933702440482396,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:12:20,Attack,0.9938001189217532,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:12:30,Attack,0.99245157731323,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:12:40,Attack,0.9897826416641908,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:12:50,Attack,0.98775641222761,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:13:00,Attack,0.9866552163450534,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:13:10,Attack,0.9915886418158012,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:13:20,Attack,0.9931198574300584,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:13:30,Attack,0.9927919131715852,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:13:40,Attack,0.9904344272943666,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:13:50,Attack,0.9925124906071682,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:14:00,Attack,0.9919337061499314,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:14:10,Attack,0.9926648942773784,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:14:20,Attack,0.9936743333009006,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:14:30,Attack,0.9947773152118926,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:14:40,Attack,0.995380570978156,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:14:50,Attack,0.9958924702838288,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:15:00,Attack,0.9957665060251282,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:15:10,Attack,0.9964385235580407,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:15:20,Attack,0.9963144830589664,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:15:30,Attack,0.9953858965645652,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:15:40,Attack,0.9951163272722258,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:15:50,Attack,0.9944653464963028,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:16:00,Attack,0.9952705244159336,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:16:10,Attack,0.995029850664094,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:16:20,Attack,0.9952209747898378,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:16:30,Attack,0.994948816655454,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:16:40,Attack,0.9945593451876988,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:16:50,Attack,0.9940471485050192,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:17:00,Attack,0.992742182401516,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:17:10,Attack,0.9936901814023924,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:17:20,Attack,0.9941895900326004,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:17:30,Attack,0.9928322086936796,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:17:40,Attack,0.992532407570963,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:17:50,Attack,0.9935113528523286,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:18:00,Attack,0.9935102513929636,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:18:10,Attack,0.9941423443454968,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:18:20,Attack,0.9944724562229814,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:18:30,Attack,0.9949739288234504,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:18:40,Attack,0.9946756240788456,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:18:50,Attack,0.9945685619539324,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:19:00,Attack,0.9927956933938418,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:19:10,Attack,0.9926830590051504,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:19:20,Attack,0.9936149278987766,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:19:30,Attack,0.9927323137252368,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:19:40,Attack,0.9917747000991206,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:19:50,Attack,0.9919742331366946,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:20:00,Attack,0.9935873007051464,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:20:10,Attack,0.9943262400698752,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:20:20,Attack,0.994374455969362,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:20:30,Attack,0.9939522727051492,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:20:40,Attack,0.9949316114424768,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:20:50,Attack,0.9954558218614592,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:21:00,Attack,0.9958410710520996,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:21:10,Attack,0.9952672683389988,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:21:20,Attack,0.9929679217817472,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:21:30,Attack,0.9915594022082302,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:21:40,Attack,0.989647387795441,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:21:50,Attack,0.9889964235676622,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:22:00,Attack,0.9905792101646506,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:22:10,Attack,0.991993791410138,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:22:20,Attack,0.9926368668773106,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:22:30,Attack,0.9930113863245688,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:22:40,Attack,0.99243041531676,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:22:50,Attack,0.9916276620030317,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:23:00,Attack,0.9935820096924484,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:23:10,Attack,0.9946103930307758,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:23:20,Attack,0.9929919441080108,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:23:30,Attack,0.9924140107296284,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:23:40,Attack,0.9933402723753334,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:23:50,Attack,0.9942153263219756,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:24:00,Attack,0.9950861641800576,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:24:10,Attack,0.9940836167202388,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:24:20,Attack,0.9943337011521468,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:24:30,Attack,0.99506315874499,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:24:40,Attack,0.9951864038577526,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:24:50,Attack,0.9951653553846408,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:25:00,Attack,0.9953991848811728,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:25:10,Attack,0.995602584756245,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:25:20,Attack,0.99456786652846,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:25:30,Attack,0.994316351809764,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:25:40,Attack,0.9926557913983984,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:25:50,Attack,0.9904649905924124,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:26:00,Attack,0.9866459993863056,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:26:10,Attack,0.9796110620289308,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:26:20,Attack,0.9782967578694968,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:26:30,Attack,0.976056152247306,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:26:40,Attack,0.9850318077978962,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:26:50,Attack,0.9899660919138458,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:27:00,Attack,0.9935328949827538,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:27:10,Attack,0.994628938317656,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:27:20,Attack,0.9950166474154176,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:27:30,Attack,0.9938235089957944,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:27:40,Attack,0.992771231266091,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:27:50,Attack,0.9940031461110465,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:28:00,Attack,0.9943215850204044,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:28:10,Attack,0.9929888110423578,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:28:20,Attack,0.9896715722086938,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:28:30,Attack,0.9857870644663504,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:28:40,Attack,0.9869715112812312,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:28:50,Attack,0.9879210115914552,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:29:00,Attack,0.9907372779290864,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:29:10,Attack,0.992902566253524,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:29:20,Attack,0.992211103369613,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:29:30,Attack,0.9937356652739768,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:29:40,Attack,0.993568598502209,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:29:50,Attack,0.9937758056283668,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:30:00,Attack,0.9948476983968528,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:30:10,Attack,0.9951279250165056,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:30:20,Attack,0.9945593276756888,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:30:30,Attack,0.99430429120443,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:30:40,Attack,0.9945402633441014,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:30:50,Attack,0.9942946542827444,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:31:00,Attack,0.9926562304375536,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:31:10,Attack,0.9924243655421836,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:31:20,Attack,0.9914847838556982,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:31:30,Attack,0.9907042928382774,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:31:40,Attack,0.985878280031944,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:31:50,Attack,0.986936564355664,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:32:00,Attack,0.990805761976067,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:32:10,Attack,0.9927733664134069,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:32:20,Attack,0.9931640755548584,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:32:30,Attack,0.993473668992944,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:32:40,Attack,0.994363724614655,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:32:50,Attack,0.9941414847736936,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:33:00,Attack,0.9936068160614104,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:33:10,Attack,0.9947981559995676,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:33:20,Attack,0.995154812863015,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:33:30,Attack,0.9951187785232976,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:33:40,Attack,0.9934125598225674,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:33:50,Attack,0.9918656592952392,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:34:00,Attack,0.990492571580973,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:34:10,Attack,0.9890875184914404,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:34:20,Attack,0.9875988539684184,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:34:30,Attack,0.9890252452914392,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:34:40,Attack,0.9905531083795636,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:34:50,Attack,0.988306509247672,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:35:00,Attack,0.986913956105205,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:35:10,Attack,0.984925909246006,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:35:20,Attack,0.9850969481467078,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:35:30,Attack,0.9899207203671986,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:35:40,Attack,0.9917722947195596,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:35:50,Attack,0.9913589564200423,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:36:00,Attack,0.99317594611419,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:36:10,Attack,0.9944527677289996,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:36:20,Attack,0.9949691170835052,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:36:30,Attack,0.9951953830382354,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:36:40,Attack,0.9954176124032124,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:36:50,Attack,0.9936128444762125,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:37:00,Attack,0.9933956930392012,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:37:10,Attack,0.9935599220658954,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:37:20,Attack,0.9946521564501212,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:37:30,Attack,0.9949769978859268,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:37:40,Attack,0.994185921415802,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:37:50,Attack,0.994273856760734,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:38:00,Attack,0.994594818393298,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:38:10,Attack,0.9955376055247266,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:38:20,Attack,0.9951546552986916,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:38:30,Attack,0.9955468744723548,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:38:40,Attack,0.9956523054681578,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:38:50,Attack,0.9958028195038596,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:39:00,Attack,0.9964741837212,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:39:10,Attack,0.996836777654492,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:39:20,Attack,0.9963700008425516,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:39:30,Attack,0.9950980630440508,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:39:40,Attack,0.9929484684247104,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:39:50,Attack,0.9906355472077836,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:40:00,Attack,0.9914862414954196,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:40:10,Attack,0.9932586276309832,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:40:20,Attack,0.9937613920603382,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:40:30,Attack,0.9939164932677816,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:40:40,Attack,0.9945306898993792,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:40:50,Attack,0.9957272819030396,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:41:00,Attack,0.994200930669792,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:41:10,Attack,0.9946018608037502,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:41:20,Attack,0.9947843934814182,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:41:30,Attack,0.9940724193447428,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:41:40,Attack,0.992091449198573,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:41:50,Attack,0.9884088663708368,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:42:00,Attack,0.9903816953352002,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:42:10,Attack,0.9920270324471436,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:42:20,Attack,0.9929251380813372,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:42:30,Attack,0.9929381134234514,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:42:40,Attack,0.9907399488045938,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:42:50,Attack,0.991578089147176,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:43:00,Attack,0.9931379772325404,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:43:10,Attack,0.9930118599411768,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:43:20,Attack,0.9936687264347696,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:43:30,Attack,0.9947232410808168,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:43:40,Attack,0.994380963708884,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:43:50,Attack,0.9941579063694858,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:44:00,Attack,0.9942894643890796,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:44:10,Attack,0.995542367593266,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:44:20,Attack,0.9953372931768144,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:44:30,Attack,0.9955647785154051,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:44:40,Attack,0.9951730718474816,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:44:50,Attack,0.995164995725464,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:45:00,Attack,0.9945755458463266,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:45:10,Attack,0.993458230553252,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:45:20,Attack,0.9938653101521232,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:45:30,Attack,0.9943567627357311,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:45:40,Attack,0.9951257332455244,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:45:50,Attack,0.9956191039000528,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:46:00,Attack,0.9959818450079028,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:46:10,Attack,0.9964736506761016,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:46:20,Attack,0.9961113171542636,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:46:30,Attack,0.995705071636096,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:46:40,Attack,0.9951176323688942,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:46:50,Attack,0.9954085633256242,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:47:00,Attack,0.9956152539568764,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:47:10,Attack,0.9948800799306288,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:47:20,Attack,0.9947909975985636,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:47:30,Attack,0.9934057334039808,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:47:40,Attack,0.9920180611446318,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:47:50,Attack,0.9921838744222762,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:48:00,Attack,0.9944220440381834,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:48:10,Attack,0.9954653244273904,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:48:20,Attack,0.9949485971981198,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:48:30,Attack,0.9944149152437108,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:48:40,Attack,0.995125253557498,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:48:50,Attack,0.9951106212087666,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:49:00,Attack,0.9943438868429252,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:49:10,Attack,0.9932310461954574,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:49:20,Attack,0.9941558317603671,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:49:30,Attack,0.9946986474338596,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:49:40,Attack,0.9932417407549542,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:49:50,Attack,0.9937981848375984,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:50:00,Attack,0.995161494122416,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:50:10,Attack,0.9959594774772796,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:50:20,Attack,0.9960672191853868,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:50:30,Attack,0.9958782239955236,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:50:40,Attack,0.9963159526477792,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:50:50,Attack,0.9958773540563428,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:51:00,Attack,0.996243413046702,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:51:10,Attack,0.9968583272439968,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:51:20,Attack,0.9970851282064488,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:51:30,Attack,0.9967550751444624,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:51:40,Attack,0.9963076989285552,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:51:50,Attack,0.9946683040917652,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:52:00,Attack,0.992896040864918,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:52:10,Attack,0.9916223101826072,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:52:20,Attack,0.9934704583660968,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:52:30,Attack,0.9943798655257068,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:52:40,Attack,0.9943132769569504,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:52:50,Attack,0.9946963635628302,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:53:00,Attack,0.994426672536304,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:53:10,Attack,0.993326831654775,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:53:20,Attack,0.991414824853748,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:53:30,Attack,0.992806509694682,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:53:40,Attack,0.9933785202086092,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:53:50,Attack,0.9945390858125004,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:54:00,Attack,0.9945419257044866,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:54:10,Attack,0.9952560174881304,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:54:20,Attack,0.9956004949882196,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:54:30,Attack,0.9942253547121028,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:54:40,Attack,0.9919107254227372,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:54:50,Attack,0.9927979097751516,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:55:00,Attack,0.9927113611223604,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:55:10,Attack,0.9931016659028012,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:55:20,Attack,0.9946111701786182,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:55:30,Attack,0.9955636767267788,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:55:40,Attack,0.995143409771782,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:55:50,Attack,0.9959404807503682,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:56:00,Attack,0.996320949383399,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:56:10,Attack,0.9963170503623896,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:56:20,Attack,0.99643821578894,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:56:30,Attack,0.9962560448186384,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:56:40,Attack,0.9960223288453784,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:56:50,Attack,0.9961638708475304,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:57:00,Attack,0.9964685969002928,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:57:10,Attack,0.9964962404778054,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:57:20,Attack,0.9961028330711316,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:57:30,Attack,0.9941121616883696,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:57:40,Attack,0.9907035356121324,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:57:50,Attack,0.9914493442341736,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:58:00,Attack,0.9908325796140192,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:58:10,Attack,0.9937778780575138,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:58:20,Attack,0.995393780961994,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:58:30,Attack,0.9943123140315518,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:58:40,Attack,0.9938563581898674,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:58:50,Attack,0.9949669237768296,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:59:00,Attack,0.9961081433834847,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:59:10,Attack,0.996565189702239,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:59:20,Attack,0.9955440332210544,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:59:30,Attack,0.9951105774752596,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:59:40,Attack,0.9942391081674598,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 11:59:50,Attack,0.9907238804206931,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:00:00,Attack,0.9875487868927328,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:00:10,Attack,0.9911307053571472,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:00:20,Attack,0.9923668041163416,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:00:30,Attack,0.9896560687561876,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:00:40,Attack,0.9852838441592002,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:00:50,Attack,0.9881976628424262,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:01:00,Attack,0.9898113401200492,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:01:10,Attack,0.989826415964422,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:01:20,Attack,0.985482988510188,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:01:30,Attack,0.9872236486117046,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:01:40,Attack,0.9869592432335064,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:01:50,Attack,0.9857526286581028,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:02:00,Attack,0.9855583822530118,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:02:10,Attack,0.986268740132054,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:02:20,Attack,0.9905933437615844,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:02:30,Attack,0.9930205706176654,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:02:40,Attack,0.9939491390914956,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:02:50,Attack,0.993450653692736,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:03:00,Attack,0.9939463393558988,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:03:10,Attack,0.9942034065274458,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:03:20,Attack,0.9937620382796448,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:03:30,Attack,0.9909722835298924,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:03:40,Attack,0.99116076672477,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:03:50,Attack,0.9909293559150912,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:04:00,Attack,0.9926586916543488,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:04:10,Attack,0.9932599618295124,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:04:20,Attack,0.9947048153174696,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:04:30,Attack,0.995548059042648,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:04:40,Attack,0.9955701153985644,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:04:50,Attack,0.9953223687474564,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:05:00,Attack,0.9952175927271084,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:05:10,Attack,0.995795744534619,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:05:20,Attack,0.9959726594517192,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:05:30,Attack,0.9957769927728324,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:05:40,Attack,0.9954935049539804,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:05:50,Attack,0.9953047901855296,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:06:00,Attack,0.9956647993783146,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:06:10,Attack,0.9962600842474932,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:06:20,Attack,0.9956439783995956,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:06:30,Attack,0.9940274494410194,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:06:40,Attack,0.993808795439772,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:06:50,Attack,0.9921326512199206,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:07:00,Attack,0.9910233936086252,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:07:10,Attack,0.990827385445936,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:07:20,Attack,0.9910810493372691,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:07:30,Attack,0.98892003452025,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:07:40,Attack,0.9847061954123326,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:07:50,Attack,0.9878396559027556,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:08:00,Attack,0.9921596461415374,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:08:10,Attack,0.9951020604909716,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:08:20,Attack,0.99508113931123,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:08:30,Attack,0.9941107414364466,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:08:40,Attack,0.9945461501139784,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:08:50,Attack,0.9954209031450676,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:09:00,Attack,0.99607382145187,Attack,FTP-BruteForce,T1110 - Brute Force,Credential Access,Credential Access,Prediction occurs within the documented FTP brute-force attack window.
+2018-02-14 12:09:10,Attack,0.9965745163852496,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:09:20,Attack,0.9963794850624188,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:09:30,Attack,0.9950725039546576,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:09:40,Attack,0.9947131175294828,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:09:50,Attack,0.9952763617023062,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:10:00,Attack,0.9958620320576146,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:10:10,Attack,0.996370796135977,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:10:20,Attack,0.996242901950252,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:10:30,Attack,0.9957550180497666,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:10:40,Benign,0.99209049294171,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:10:50,Benign,0.978542221035752,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:11:00,Benign,0.9428935846431068,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:11:10,Benign,0.8339539452564427,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,"High predicted attack probability, but no documented attack scenario overlaps this timestamp."
+2018-02-14 12:11:20,Benign,0.5283167121593688,Attack,Unknown / Unclassified,Not assigned,Suspicious Activity,Requires Investigation,Moderate predicted attack probability; additional evidence is required.
+2018-02-14 12:11:30,Benign,0.2462917832521432,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:11:40,Benign,0.0542752578094023,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:11:50,Benign,0.021081959598608,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:12:00,Benign,0.0132997499175592,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:12:10,Benign,0.0113877518433635,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:12:20,Benign,0.0098082642295651,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:12:30,Benign,0.0114792762189515,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:12:40,Benign,0.013587291983588,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:12:50,Benign,0.0213392265251102,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:13:00,Benign,0.0218265337966546,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:13:10,Benign,0.0189625732302846,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:13:20,Benign,0.0226230590980921,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:13:30,Benign,0.0218704398755419,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:13:40,Benign,0.0277656664359391,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:13:50,Benign,0.0333620452255341,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:14:00,Benign,0.028690596653219,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:14:10,Benign,0.022606131455638,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:14:20,Benign,0.0165900815400828,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:14:30,Benign,0.0115099081568743,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:14:40,Benign,0.0086510095964754,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:14:50,Benign,0.0071947070872943,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:15:00,Benign,0.0046156741606412,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:15:10,Benign,0.0057104247338951,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:15:20,Benign,0.0071129824592465,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:15:30,Benign,0.0050011969824379,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:15:40,Benign,0.0089389546240802,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:15:50,Benign,0.0082114469148349,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:16:00,Benign,0.0066465816570743,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:16:10,Benign,0.0045332531095448,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:16:20,Benign,0.0042813709852283,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:16:30,Benign,0.0032038693802775,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:16:40,Benign,0.0028328474875979,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:16:50,Benign,0.0063036889095158,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:17:00,Benign,0.0077829674893077,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:17:10,Benign,0.0119522925630129,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:17:20,Benign,0.0140137981107879,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:17:30,Benign,0.0167780658173168,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:17:40,Benign,0.0114152535508172,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:17:50,Benign,0.0042674782491078,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:18:00,Benign,0.0038197444442339,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:18:10,Benign,0.0042953291036507,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:18:20,Benign,0.0048473634866787,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:18:30,Benign,0.0102629856710381,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:18:40,Benign,0.0195094515592011,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:18:50,Benign,0.0159090718428357,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:19:00,Benign,0.0118829982482184,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:19:10,Benign,0.0095652204749934,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:19:20,Benign,0.0067612688223802,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:19:30,Benign,0.0111909093056168,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:19:40,Benign,0.0194668801876174,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:19:50,Benign,0.0200146840083085,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:20:00,Benign,0.018998637163272,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:20:10,Benign,0.0198451716434078,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:20:20,Benign,0.0217742795784287,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:20:30,Benign,0.0248104436137135,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:20:40,Benign,0.02460920065399,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:20:50,Benign,0.0206814506612825,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:21:00,Benign,0.0305895925313889,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:21:10,Benign,0.039306296500242,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:21:20,Benign,0.0321392312258978,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:21:30,Benign,0.0177881517311709,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:21:40,Benign,0.0087301296672821,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:21:50,Benign,0.0095724449908219,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:22:00,Benign,0.0119511801896698,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:22:10,Benign,0.0108666564405732,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:22:20,Benign,0.0103560304939283,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:22:30,Benign,0.0134363364952295,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:22:40,Benign,0.0167712740805947,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:22:50,Benign,0.0135857306142544,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:23:00,Benign,0.0158450246981056,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:23:10,Benign,0.0103260027912214,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:23:20,Benign,0.0101464943829183,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:23:30,Benign,0.0144078480628137,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:23:40,Benign,0.0128057268804824,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:23:50,Benign,0.0108365241713453,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:24:00,Benign,0.0132801797690745,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:24:10,Benign,0.0147726862993427,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:24:20,Benign,0.0127402749803762,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:24:30,Benign,0.0106687777274545,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:24:40,Benign,0.0063120580630236,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:24:50,Benign,0.0060379577769469,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:25:00,Benign,0.0040677872888505,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:25:10,Benign,0.0043772377808636,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:25:20,Benign,0.0054594644553199,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:25:30,Benign,0.0094238750953339,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:25:40,Benign,0.0084456847250085,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:25:50,Benign,0.0142865501776046,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:26:00,Benign,0.0258139095938298,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:26:10,Benign,0.0315983181901818,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:26:20,Benign,0.0303763301036209,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:26:30,Benign,0.0239488940717652,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:26:40,Benign,0.0125357335047287,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:26:50,Benign,0.0086997029979105,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:27:00,Benign,0.008356555987323,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:27:10,Benign,0.0057641355340535,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:27:20,Benign,0.0052946037051088,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:27:30,Benign,0.0060575256613281,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:27:40,Benign,0.0053761467289811,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:27:50,Benign,0.0072529080397333,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:28:00,Benign,0.0111813428638806,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:28:10,Benign,0.0102579769979546,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:28:20,Benign,0.0112746831604807,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:28:30,Benign,0.0157905606442463,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:28:40,Benign,0.0242833185433889,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:28:50,Benign,0.0390397514026666,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:29:00,Benign,0.0454873542666971,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:29:10,Benign,0.0482242050185392,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:29:20,Benign,0.0295415314466725,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:29:30,Benign,0.0250727567123717,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:29:40,Benign,0.0176055528454371,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:29:50,Benign,0.0128404110640884,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:30:00,Benign,0.0132841647869664,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:30:10,Benign,0.0189998759529366,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:30:20,Benign,0.0303046096979224,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:30:30,Benign,0.0272286024447587,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:30:40,Benign,0.0247392682149906,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:30:50,Benign,0.0224923566771126,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:31:00,Benign,0.0151182650478333,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:31:10,Benign,0.0107061803759054,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:31:20,Benign,0.0088431606443761,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:31:30,Benign,0.0070925030539885,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:31:40,Benign,0.0088521226892631,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:31:50,Benign,0.0059285492756483,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:32:00,Benign,0.006906671210797,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:32:10,Benign,0.006101859321666,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:32:20,Benign,0.0079061309962893,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:32:30,Benign,0.0068179537929907,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:32:40,Benign,0.0073200924069296,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:32:50,Benign,0.0089020557951538,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:33:00,Benign,0.0082569003192191,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:33:10,Benign,0.0055163520513601,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:33:20,Benign,0.0044891689808739,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:33:30,Benign,0.0051577254516556,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:33:40,Benign,0.0063067404695693,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:33:50,Benign,0.0064094326191147,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:34:00,Benign,0.0080817553353344,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:34:10,Benign,0.0094112133116491,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:34:20,Benign,0.0204091090366356,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:34:30,Benign,0.0265267651686119,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:34:40,Benign,0.0257520716660291,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:34:50,Benign,0.0328301196483875,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:35:00,Benign,0.0346984085511255,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:35:10,Benign,0.0319286928343392,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:35:20,Benign,0.0266250221764292,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:35:30,Benign,0.0306367424805133,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:35:40,Benign,0.0278060129550445,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:35:50,Benign,0.0289961694077369,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:36:00,Benign,0.0264312347049772,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:36:10,Benign,0.0360589736126394,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:36:20,Benign,0.0375256771326935,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:36:30,Benign,0.0375228820512449,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:36:40,Benign,0.0347989541613035,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:36:50,Benign,0.0193688114904436,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:37:00,Benign,0.0161696276348555,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:37:10,Benign,0.0091874155454362,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:37:20,Benign,0.0057024461438327,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:37:30,Benign,0.005444655883471,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:37:40,Benign,0.0042781272215452,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:37:50,Benign,0.005777812206047,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:38:00,Benign,0.0043321008490511,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:38:10,Benign,0.0046453549833438,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:38:20,Benign,0.0049670414129576,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:38:30,Benign,0.0068915100180442,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:38:40,Benign,0.0091918823959644,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:38:50,Benign,0.0119158374369942,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:39:00,Benign,0.0126317541434951,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:39:10,Benign,0.0140702664846408,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:39:20,Benign,0.0107098939149162,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:39:30,Benign,0.0055079631313288,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:39:40,Benign,0.0026442382233563,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:39:50,Benign,0.0029311415177131,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:40:00,Benign,0.0036625538146182,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:40:10,Benign,0.0050427222820914,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:40:20,Benign,0.0074183358164061,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:40:30,Benign,0.0098247203108563,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:40:40,Benign,0.0073286944268106,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:40:50,Benign,0.0055002769587408,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:41:00,Benign,0.0057521128666734,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:41:10,Benign,0.0039128591138271,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:41:20,Benign,0.0029322011828969,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:41:30,Benign,0.0035503369884323,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:41:40,Benign,0.0048224631025307,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:41:50,Benign,0.0044593333203458,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:42:00,Benign,0.0068059921389714,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:42:10,Benign,0.0049290648139642,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:42:20,Benign,0.007775637474021,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:42:30,Benign,0.0073726607731999,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:42:40,Benign,0.0094333490411365,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:42:50,Benign,0.0079420536374941,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:43:00,Benign,0.0097088837305013,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:43:10,Benign,0.0047532803947707,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:43:20,Benign,0.0057547646328758,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:43:30,Benign,0.0079518505604299,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:43:40,Benign,0.0096134397303047,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:43:50,Benign,0.0068080283048203,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:44:00,Benign,0.0068109636879484,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:44:10,Benign,0.0057249626999265,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:44:20,Benign,0.008884829568491,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:44:30,Benign,0.0060252958650647,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:44:40,Benign,0.007592735476786,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:44:50,Benign,0.0065603272423304,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:45:00,Benign,0.0062599050428756,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:45:10,Benign,0.0062638758387863,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:45:20,Benign,0.0054781686117639,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:45:30,Benign,0.0056084470639555,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:45:40,Benign,0.0041000917465735,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:45:50,Benign,0.0046117162145104,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:46:00,Benign,0.0027603153236009,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:46:10,Benign,0.0023403279687171,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:46:20,Benign,0.0019744173963869,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:46:30,Benign,0.0027925823434622,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:46:40,Benign,0.0019764354790983,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:46:50,Benign,0.0017442973191496,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:47:00,Benign,0.0021398787926154,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:47:10,Benign,0.0017080453433063,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:47:20,Benign,0.0019187728005344,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:47:30,Benign,0.001680964064173,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:47:40,Benign,0.0017414633065262,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:47:50,Benign,0.005813770644862,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:48:00,Benign,0.0065778273005926,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:48:10,Benign,0.0073754774555178,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:48:20,Benign,0.006546053075588,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:48:30,Benign,0.007552439684096,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:48:40,Benign,0.0069371487946308,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:48:50,Benign,0.0071886882180016,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:49:00,Benign,0.0082443261841956,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:49:10,Benign,0.0073160681457456,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:49:20,Benign,0.0079785383189393,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:49:30,Benign,0.0038629727577642,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:49:40,Benign,0.0023752901786236,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:49:50,Benign,0.0039804585881952,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:50:00,Benign,0.0051761914162392,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:50:10,Benign,0.0052692632720816,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:50:20,Benign,0.0075182914771149,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:50:30,Benign,0.0172191490023686,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:50:40,Benign,0.0234061013186412,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:50:50,Benign,0.0186227303725291,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:51:00,Benign,0.0138511667801137,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:51:10,Benign,0.0177372351096445,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:51:20,Benign,0.0163355754475754,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:51:30,Benign,0.0118924111052916,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:51:40,Benign,0.009580002377183,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:51:50,Benign,0.0055792651863083,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:52:00,Benign,0.006347086980181,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:52:10,Benign,0.0082099014562481,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:52:20,Benign,0.012093151794189,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:52:30,Benign,0.012477831401949,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:52:40,Benign,0.0140797609651685,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:52:50,Benign,0.0128592495790286,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:53:00,Benign,0.0123774373391212,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:53:10,Benign,0.0103679054848916,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:53:20,Benign,0.0095517865910602,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:53:30,Benign,0.0051457395564229,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:53:40,Benign,0.0061027883235796,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:53:50,Benign,0.0070128625358949,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:54:00,Benign,0.0108173584939209,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:54:10,Benign,0.0090920105954742,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:54:20,Benign,0.0062489167053242,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:54:30,Benign,0.0059403581952758,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:54:40,Benign,0.0067950928905671,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:54:50,Benign,0.0075997903648111,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:55:00,Benign,0.0061759361014644,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:55:10,Benign,0.0062410707645597,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:55:20,Benign,0.0058969835501061,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:55:30,Benign,0.0048633208805418,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:55:40,Benign,0.003798933651721,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:55:50,Benign,0.0055444495769073,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:56:00,Benign,0.004777045067331,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:56:10,Benign,0.0046946868401456,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:56:20,Benign,0.0068675416692338,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:56:30,Benign,0.0035721333505222,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:56:40,Benign,0.0025883456225843,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:56:50,Benign,0.0027640457051627,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:57:00,Benign,0.0050097423114429,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:57:10,Benign,0.0042970141135586,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:57:20,Benign,0.0048963178086195,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:57:30,Benign,0.004364940781206,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:57:40,Benign,0.0047746486099335,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:57:50,Benign,0.009604350260866,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:58:00,Benign,0.0098686619987641,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:58:10,Benign,0.0044323094166286,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:58:20,Benign,0.0033659404401554,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:58:30,Benign,0.00333286145811,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:58:40,Benign,0.0050614926249267,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:58:50,Benign,0.0062070342876956,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:59:00,Benign,0.0066790222838252,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:59:10,Benign,0.004714620699365,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:59:20,Benign,0.0054415714145776,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:59:30,Benign,0.0055521852540077,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:59:40,Benign,0.0042756915065222,Benign,None,None,None,Monitoring,No strong malicious progression signal.
+2018-02-14 12:59:50,Benign,0.0044679193698746,Benign,None,None,None,Monitoring,No strong malicious progression signal.

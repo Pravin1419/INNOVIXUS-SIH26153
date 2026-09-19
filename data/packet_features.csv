@@ -1,0 +1,4 @@
+Timestamp,TTL,Packet_Length,Payload_Size,TCP_Window,SYN,ACK,FIN,RST,PSH,URG,Fragment_Offset,More_Fragments,Retransmission
+2017-10-02 12:03:32.535131931,64,1010,0,0,0,0,0,0,0,0,0,1,0
+2017-10-02 12:03:32.535197020,64,466,0,0,0,0,0,0,0,0,122,0,0
+2017-10-02 12:03:32.535640955,64,1442,0,0,0,0,0,0,0,0,0,0,0

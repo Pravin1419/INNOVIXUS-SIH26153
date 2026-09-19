@@ -1,0 +1,11 @@
+Feature,SHAP_Value,Absolute_SHAP,Direction
+Flow Pkts/s,5.233213081137948,5.233213081137948,Increases attack probability
+PSH Flag Cnt,1.1499090834120282,1.1499090834120282,Increases attack probability
+Pkt Len Mean,0.9983508533817268,0.9983508533817268,Increases attack probability
+Pkt Len Std,0.8549563472831684,0.8549563472831684,Increases attack probability
+RST Flag Cnt,0.7539802700598108,0.7539802700598108,Increases attack probability
+Flow IAT Mean,0.6106110526427083,0.6106110526427083,Increases attack probability
+Fwd IAT Mean,0.5773740836536132,0.5773740836536132,Increases attack probability
+Flow Duration,0.4529864779892432,0.4529864779892432,Increases attack probability
+URG Flag Cnt,-0.3880292295753446,0.3880292295753446,Decreases attack probability
+Flow IAT Std,0.3395650291790778,0.3395650291790778,Increases attack probability
